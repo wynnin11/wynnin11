@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @wynnin11
-- 👀 I’m interested in Cyber Security and Cloud computing
-- 🌱 I’m currently learning about AI and Machine learning
-- 📫 How to reach me wynnin11@gmail.com
+Experienced Developer in 
+C++ || Java || Python || JavaScript
 
-<!---
-wynnin11/wynnin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most recent Project: JudgeMe
+Andriod Application || IOS Appilication 
+
+Currently working on understanding Ubuntu,Linux to manage systems and networks 
+And
+Earning AWS, Google, IBM Certs
+
